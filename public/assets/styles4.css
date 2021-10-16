@@ -1,0 +1,7 @@
+.slide_2::before {background-color: rgba(0,0,0,0.5)}
+.slide_3::before {background-color: rgba(0,0,0,0.3)}
+.slide_4::before {background-color: rgba(0,0,0,0.6)}
+.stm_slide_thumb.active .stm_slider_progress_bar {animation-duration: 3.8s}
+.stm_slider {width: 100% !important}
+.stm_slider, .stm_slider .stm_slide {height: 900px !important}
+                                     
